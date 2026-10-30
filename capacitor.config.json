@@ -1,0 +1,5 @@
+{
+  "appId": "com.marketplace.app",
+  "appName": "marketplace",
+  "webDir": "dist"
+}
